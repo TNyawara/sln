@@ -26,7 +26,7 @@ namespace EinsteinsRiddleSolution
 
         public override String ToString()
         {
-            String t = String.Format("Nationality: {0}", this.Nationalities);
+            String t = String.Format("Nationalities: {0}", this.Nationalities);
             t += Environment.NewLine;
             t += String.Format(" HouseColor: {0}, Pet: {1}", this.HouseColor, this.Pet);
             t += Environment.NewLine;
