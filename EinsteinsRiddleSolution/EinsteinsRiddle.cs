@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EinsteinsRiddleSolution
+namespace EinsteinsRiddle
 {
-     class EinsteinsRiddleSolution
+     class EinsteinsRiddle
     {
         
         static Random random = new Random();
