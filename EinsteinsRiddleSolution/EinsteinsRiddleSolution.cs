@@ -59,7 +59,9 @@ namespace EinsteinsRiddleSolution
             }
             
             Console.WriteLine("Enter solution");
-            do while (true)
+            
+            //do
+            while (true)
             {
                 string input = "";
                 if (input == "")
