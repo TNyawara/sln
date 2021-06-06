@@ -70,11 +70,11 @@ namespace EinsteinsRiddleSolution
                 }
                 //no input implies false/failed user input
                 Console.WriteLine("Failed");
-                else
+                /*else
                 {
                     //some rules satisfied while others are not
                     Console.WriteLine("Fair");
-                }
+                }*/
 
             }
             PrintSolution();
